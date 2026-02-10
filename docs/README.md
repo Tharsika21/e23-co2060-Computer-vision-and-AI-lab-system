@@ -2,7 +2,7 @@
 layout: home
 permalink: index.html
 
-repository-name: eYY-co2060-project-template
+repository-name: e23-co2060-project-template
 title: CO2060
 ---
 
